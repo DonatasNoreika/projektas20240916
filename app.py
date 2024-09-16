@@ -1,4 +1,5 @@
 from flask import Flask
+import flask_sqlalchemy
 
 app = Flask(__name__)
 
